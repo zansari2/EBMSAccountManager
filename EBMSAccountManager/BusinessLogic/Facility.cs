@@ -12,14 +12,11 @@ namespace EBMSAccountManager.BusinessLogic
         {
             
         }
-
         public static IList<Facility> facilities = new List<Facility>()
         {
             new Facility() { Name = "Tripler", Code = "TRP", Active = true },
             new Facility() { Name = "Brian All Good", Code = "ALL", Active = true },
-
         }.OrderBy(o => o.Code).ToList();
-
         private string _name;
         public string Name
         {
