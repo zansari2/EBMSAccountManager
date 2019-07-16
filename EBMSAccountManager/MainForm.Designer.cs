@@ -41,7 +41,7 @@
             // 
             this.firstNameTextBox.Location = new System.Drawing.Point(12, 12);
             this.firstNameTextBox.Name = "firstNameTextBox";
-            this.firstNameTextBox.Size = new System.Drawing.Size(100, 20);
+            this.firstNameTextBox.Size = new System.Drawing.Size(106, 20);
             this.firstNameTextBox.TabIndex = 0;
             this.firstNameTextBox.Text = "First Name";
             // 
@@ -49,7 +49,7 @@
             // 
             this.middleNameTextBox.Location = new System.Drawing.Point(12, 39);
             this.middleNameTextBox.Name = "middleNameTextBox";
-            this.middleNameTextBox.Size = new System.Drawing.Size(100, 20);
+            this.middleNameTextBox.Size = new System.Drawing.Size(106, 20);
             this.middleNameTextBox.TabIndex = 1;
             this.middleNameTextBox.Text = "Middle Name (Initial)";
             // 
@@ -57,7 +57,7 @@
             // 
             this.lastNameTextBox.Location = new System.Drawing.Point(12, 65);
             this.lastNameTextBox.Name = "lastNameTextBox";
-            this.lastNameTextBox.Size = new System.Drawing.Size(100, 20);
+            this.lastNameTextBox.Size = new System.Drawing.Size(106, 20);
             this.lastNameTextBox.TabIndex = 2;
             this.lastNameTextBox.Text = "Last Name";
             // 
@@ -65,7 +65,7 @@
             // 
             this.dodIDTextBox.Location = new System.Drawing.Point(12, 92);
             this.dodIDTextBox.Name = "dodIDTextBox";
-            this.dodIDTextBox.Size = new System.Drawing.Size(100, 20);
+            this.dodIDTextBox.Size = new System.Drawing.Size(106, 20);
             this.dodIDTextBox.TabIndex = 3;
             this.dodIDTextBox.Text = "DoD ID";
             // 
